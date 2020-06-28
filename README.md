@@ -1,2 +1,2 @@
 # u-code
-U-Code Contest
+UTSSA U-Code Contest
